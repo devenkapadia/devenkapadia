@@ -8,7 +8,7 @@ My portfolio: https://portfolio-deven-puce.vercel.app/
 
 <h3 >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p >
-<a href="https://www.linkedin.com/in/devenkapadia/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="AksharShah" /></a>
+<a href="https://www.linkedin.com/in/devenkapadia/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Deven" /></a>
 <a href="mailto:devenkapadia1@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>    
