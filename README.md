@@ -1,38 +1,62 @@
-<h1 align="center"> Deven Kapadia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi 👋, I'm Deven Kapadia</h1>
 
-🎓 Hello! Viewer, Deven Kapadia currently pursuing MTech from International Institute of Information Technology, Bangalore in the field of Computer Science and Engineering.<br>
-<br>
-🌱 MERN Developer | Aspiring Data Scientist | AI and Machine Learning Enthusiast.<br>
-
-My portfolio: https://portfolio-deven-puce.vercel.app/
-
-<h3 >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
-<p >
-<a href="https://www.linkedin.com/in/devenkapadia/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Deven" /></a>
-<a href="mailto:devenkapadia1@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>    
-</p>
-<h3 >Technical Skills</h3>
-<p >
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-4B68B8?logo=cplusplus&logoColor=white&style=for-the-badge"/>
- <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0088D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<p align="center">
+🎓 MTech (Computer Science & Engineering) @ IIIT Bangalore <br>
+💼 Software Developer Intern @ IBM <br>
+🤖 AI/ML Enthusiast | Backend & System Design Learner | Full-Stack Developer  
 </p>
 
-<br>
+---
 
-<strong>GitHub Stats ⚡</strong>
-<br>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/?username=devenkapadia&hide_border=True&show_icons=True&layout=compact&theme=dark" />
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=devenkapadia&theme=light&hide_border=true"/>
+### 🚀 About Me
+
+- 🔬 Currently working on **AI/ML and NLP based projects**
+- 🧠 Strong interest in **Distributed Systems & System Design**
+- 💻 Experience building **full-stack scalable applications (React + Spring Boot + PostgreSQL + Kubernetes)**
+- 📊 Passionate about solving **DSA & real-world engineering problems**
+- 🌱 Continuously learning **Deep Learning, LLMs, and scalable backend architectures**
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/deven-kapadia-1aa3883a7" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-DevenKapadia-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:devenkapadia1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+#### ⚙️ Backend & Databases
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![NodeJS](https://img.shields.io/badge/NodeJS-darkgreen?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+#### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+#### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv)
